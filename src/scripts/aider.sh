@@ -1,0 +1,1 @@
+aider --model o3-mini --architect --editor-model gpt-4o --yes-always --read README.md --watch
